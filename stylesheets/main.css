@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'YaHei Monaco Hybird';
+    src: url('https://github.com/tanningzhong/YaHeiMonacoHybird/blob/master/YaHeiMonacoHybird.ttf');
+}
+
 * {
     padding: 0;
     margin: 0;
