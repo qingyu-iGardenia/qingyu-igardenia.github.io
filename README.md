@@ -1,6 +1,6 @@
 # qingyu's Notebook
 
-> 学习笔记 & 一些资料
+> 人生真是奇妙，兜兜转转，最后又回到了原来的地方！
 
 ## Tools
 
@@ -13,4 +13,5 @@
 [draw.io](https://www.draw.io/)
 
 
-
+## 基础
+[计算机基础](./notes/计算机基础.md)
